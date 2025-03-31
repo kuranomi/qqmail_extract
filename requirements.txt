@@ -1,0 +1,10 @@
+pandas
+numpy
+re
+gfile
+zipfile
+openpyxl
+bs4
+imaplib
+email
+unicodedata
